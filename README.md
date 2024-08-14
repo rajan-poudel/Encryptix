@@ -2,13 +2,13 @@
 This repository contains my solutions for Encryptix virtual python internship. (Aug Batch 1)
 
 # Offer Letter
-![alt text](https://github.com/rajan-poudel/CODSOFT/blob/main/offer_letter.jpeg?raw=true)
+![alt text](https://github.com/rajan-poudel/Encryptix/blob/main/offer_letter.jpg)
 
 # Demo Video
-[![Watch the video](https://img.youtube.com/vi/z6ySvxwXcew/0.jpg)](https://www.youtube.com/watch?v=z6ySvxwXcew)
+[![Watch the video](https://img.youtube.com/vi/7Z_XaAdIXpY/0.jpg)](https://youtu.be/7Z_XaAdIXpY?feature=shared)
 
-# About CODSOFT
-CODSOFT is a vibrant and diverse community that brings together individuals with similar objectives and ultimate goals.Our main focus is on creating opportunities that span various areas, including leadership development, learning, student engagement, and fostering shared interests.
+# About Encryptix
+Encryptix is a vibrant and diverse community that brings together individuals with similar objectives and ultimate goals.Our main focus is on creating opportunities that span various areas, including leadership development, learning, student engagement, and fostering shared interests.
 
 We believe in the power of leadership and its ability to drive positive change. That's why we provide platforms and resources for our community members to develop their leadership skills. Through mentorship programs, workshops, and collaborative projects, we empower individuals to take on leadership roles and make a difference in their respective fields.
 
@@ -17,7 +17,7 @@ Update your LinkedIn profiles
 
 For the Python Programming internship, you will need to complete at least 3 tasks for successful completion of the internship.
 
-Maintain a separate GitHub repository(name as CODSOFT for all the tasks and share the link of the GitHub repo in the task submission form(it will be given later through email).
+Maintain a separate GitHub repository(name as Encryptix for all the tasks and share the link of the GitHub repo in the task submission form(it will be given later through email).
 
 You can refer to online resources such as Google Search and read tutorials. Watch videos(For Help).
 
@@ -28,9 +28,9 @@ A video need to be created to showcase your work, a demo of your effort.
 
 For the Python Programming internship, you will need to complete at least 3 tasks for successful completion of the internship.
 
-The video can be hosted on LinkedIn for proof of your work and to build credibility among your peers. You can tag @CODSOFT in such posts.
+The video can be hosted on LinkedIn for proof of your work and to build credibility among your peers. You can tag @Encryptix in such posts.
 
-Please add #codsoft in each of your task video postings on LinkedIn, Additionally, you can also add hashtags such as #internship #webdevelopment. for more reach and visibility
+Please add #encryptix in each of your task video postings on LinkedIn, Additionally, you can also add hashtags such as #internship #webdevelopment. for more reach and visibility
 
 # Tasks I Did
 
