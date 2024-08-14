@@ -50,7 +50,7 @@ class About(tk.Toplevel):
 Welcome to the Calculator GUI!
 
 Created with passion and dedication by Rajan Poudel, a budding computer coding and programming enthusiast, 
-this calculator is a solution for a task of CODSOFT Python Virtual InternShip.
+this calculator is a solution for a task of Encryptix Python Virtual InternShip.
 
 Happy calculating!
 Rajan Poudel
